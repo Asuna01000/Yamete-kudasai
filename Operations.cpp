@@ -17,3 +17,4 @@ int soustraction(int a, int b)
 	
 	return resultat;
 }
+float Division
