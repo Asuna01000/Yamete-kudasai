@@ -1,3 +1,2 @@
 # Yamete-kudasai
-
-fck u
+Aniki
