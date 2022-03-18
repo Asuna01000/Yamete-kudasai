@@ -6,4 +6,4 @@ int Multiplication
 
 int exposant(int nb, int exp)
   
-  int factoriel(int nb)
+int factoriel(int nb)
